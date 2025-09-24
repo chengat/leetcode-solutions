@@ -1,5 +1,5 @@
 # leetcode-solutions
-This is a repo containing my answers to leetcode problems in python
+This is a repo containing my answers to leetcode problems
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
