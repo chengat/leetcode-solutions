@@ -6,4 +6,8 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/chengat/leetcode-solutions/tree/master/0742-to-lower-case) |
+## Math
+|  |
+| ------- |
+| [2556-convert-the-temperature](https://github.com/chengat/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
