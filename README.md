@@ -9,5 +9,10 @@ This is a repo containing my answers to leetcode problems
 ## Math
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/chengat/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/chengat/leetcode-solutions/tree/master/2556-convert-the-temperature) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/chengat/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
