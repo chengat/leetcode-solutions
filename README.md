@@ -6,6 +6,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/chengat/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
