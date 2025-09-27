@@ -4,5 +4,5 @@ class Solution:
             return True
         if n % 3 != 0 or n <=0:
             return False
-        return self.isPowerOfThree(n/3)
+        return self.isPowerOfThree(n//3)
         
