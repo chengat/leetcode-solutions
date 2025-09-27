@@ -26,6 +26,7 @@ This is a repo containing my answers to leetcode problems
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chengat/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chengat/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +52,8 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chengat/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
