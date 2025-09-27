@@ -25,6 +25,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@ This is a repo containing my answers to leetcode problems
 | [0231-power-of-two](https://github.com/chengat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chengat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
