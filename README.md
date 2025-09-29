@@ -10,6 +10,7 @@ This is a repo containing my answers to leetcode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/chengat/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/chengat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chengat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
