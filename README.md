@@ -5,6 +5,7 @@ This is a repo containing my answers to leetcode problems
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/chengat/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/chengat/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -63,6 +64,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chengat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/chengat/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/chengat/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
