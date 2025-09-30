@@ -6,6 +6,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/chengat/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/chengat/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -15,6 +16,7 @@ This is a repo containing my answers to leetcode problems
 | [0231-power-of-two](https://github.com/chengat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chengat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/chengat/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/chengat/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
@@ -55,6 +57,7 @@ This is a repo containing my answers to leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
