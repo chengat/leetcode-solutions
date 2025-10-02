@@ -5,6 +5,7 @@ This is a repo containing my answers to leetcode problems
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/chengat/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/chengat/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/chengat/leetcode-solutions/tree/master/0742-to-lower-case) |
@@ -13,6 +14,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chengat/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/chengat/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/chengat/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/chengat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chengat/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -61,6 +63,7 @@ This is a repo containing my answers to leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/chengat/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Binary Search
