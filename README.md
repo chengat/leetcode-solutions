@@ -13,6 +13,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chengat/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/chengat/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/chengat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chengat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -30,6 +31,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chengat/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/chengat/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chengat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chengat/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
