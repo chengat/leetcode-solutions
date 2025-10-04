@@ -20,6 +20,7 @@ This is a repo containing my answers to leetcode problems
 | [0326-power-of-three](https://github.com/chengat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/chengat/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/chengat/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/chengat/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
@@ -61,6 +62,7 @@ This is a repo containing my answers to leetcode problems
 | [0231-power-of-two](https://github.com/chengat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chengat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/chengat/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -87,4 +89,12 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chengat/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/chengat/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/chengat/leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
