@@ -9,6 +9,7 @@ This is a repo containing my answers to leetcode problems
 | [0344-reverse-string](https://github.com/chengat/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/chengat/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [1283-reformat-date](https://github.com/chengat/leetcode-solutions/tree/master/1283-reformat-date) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
