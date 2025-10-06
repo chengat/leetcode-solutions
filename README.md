@@ -28,6 +28,7 @@ This is a repo containing my answers to leetcode problems
 | [2556-convert-the-temperature](https://github.com/chengat/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2619-categorize-box-according-to-criteria](https://github.com/chengat/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
 | [2752-sum-multiples](https://github.com/chengat/leetcode-solutions/tree/master/2752-sum-multiples) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/chengat/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Number Theory
 |  |
 | ------- |
