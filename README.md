@@ -22,6 +22,7 @@ This is a repo containing my answers to leetcode problems
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/chengat/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/chengat/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/chengat/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/chengat/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
@@ -58,6 +59,7 @@ This is a repo containing my answers to leetcode problems
 | ------- |
 | [0231-power-of-two](https://github.com/chengat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
+| [1610-xor-operation-in-an-array](https://github.com/chengat/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
