@@ -42,6 +42,7 @@ This is a repo containing my answers to leetcode problems
 | [0088-merge-sorted-array](https://github.com/chengat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chengat/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1839-decode-xored-array](https://github.com/chengat/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chengat/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
@@ -60,6 +61,7 @@ This is a repo containing my answers to leetcode problems
 | [0231-power-of-two](https://github.com/chengat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/chengat/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1839-decode-xored-array](https://github.com/chengat/leetcode-solutions/tree/master/1839-decode-xored-array) |
 ## Recursion
 |  |
 | ------- |
