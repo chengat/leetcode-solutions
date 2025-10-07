@@ -101,4 +101,8 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/chengat/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/chengat/leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
