@@ -39,6 +39,7 @@ This is a repo containing my answers to leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chengat/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/chengat/leetcode-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/chengat/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chengat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chengat/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chengat/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -82,6 +83,7 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chengat/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/chengat/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chengat/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -119,4 +121,8 @@ This is a repo containing my answers to leetcode problems
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/chengat/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/chengat/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
