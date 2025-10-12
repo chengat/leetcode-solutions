@@ -22,6 +22,7 @@ This is a repo containing my answers to leetcode problems
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/chengat/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chengat/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/chengat/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/chengat/leetcode-solutions/tree/master/2383-add-two-integers) |
@@ -66,6 +67,7 @@ This is a repo containing my answers to leetcode problems
 | ------- |
 | [0231-power-of-two](https://github.com/chengat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/chengat/leetcode-solutions/tree/master/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chengat/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/chengat/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/chengat/leetcode-solutions/tree/master/1839-decode-xored-array) |
 ## Recursion
