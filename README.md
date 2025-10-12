@@ -46,6 +46,7 @@ This is a repo containing my answers to leetcode problems
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chengat/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/chengat/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/chengat/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/chengat/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chengat/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -129,4 +130,5 @@ This is a repo containing my answers to leetcode problems
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chengat/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chengat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1791-richest-customer-wealth](https://github.com/chengat/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
