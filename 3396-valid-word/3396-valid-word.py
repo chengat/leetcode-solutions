@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, word: str) -> bool:
         word = word.lower()
-        print(word)
+        #print(word)
         containsVowel = False
         containsConsonant = False
         for i in word:
