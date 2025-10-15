@@ -30,6 +30,7 @@ This is a repo containing my answers to leetcode problems
 | [2491-smallest-even-multiple](https://github.com/chengat/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/chengat/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2619-categorize-box-according-to-criteria](https://github.com/chengat/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
+| [2630-alternating-digit-sum](https://github.com/chengat/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/chengat/leetcode-solutions/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/chengat/leetcode-solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/chengat/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
