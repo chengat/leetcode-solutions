@@ -10,6 +10,7 @@ This is a repo containing my answers to leetcode problems
 | [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/chengat/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1283-reformat-date](https://github.com/chengat/leetcode-solutions/tree/master/1283-reformat-date) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/chengat/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/chengat/leetcode-solutions/tree/master/3396-valid-word) |
 ## Math
@@ -54,6 +55,7 @@ This is a repo containing my answers to leetcode problems
 | [1791-richest-customer-wealth](https://github.com/chengat/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/chengat/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/chengat/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chengat/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -88,6 +90,7 @@ This is a repo containing my answers to leetcode problems
 | [0043-multiply-strings](https://github.com/chengat/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/chengat/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
