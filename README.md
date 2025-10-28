@@ -36,6 +36,7 @@ This is a repo containing my answers to leetcode problems
 | [2752-sum-multiples](https://github.com/chengat/leetcode-solutions/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/chengat/leetcode-solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/chengat/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3371-harshad-number](https://github.com/chengat/leetcode-solutions/tree/master/3371-harshad-number) |
 ## Number Theory
 |  |
 | ------- |
