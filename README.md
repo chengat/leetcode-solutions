@@ -37,6 +37,7 @@ This is a repo containing my answers to leetcode problems
 | [2824-check-if-the-number-is-fascinating](https://github.com/chengat/leetcode-solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/chengat/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/chengat/leetcode-solutions/tree/master/3371-harshad-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/chengat/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
 | ------- |
@@ -78,6 +79,7 @@ This is a repo containing my answers to leetcode problems
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chengat/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/chengat/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/chengat/leetcode-solutions/tree/master/1839-decode-xored-array) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/chengat/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
