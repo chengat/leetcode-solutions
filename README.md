@@ -10,6 +10,7 @@ This is a repo containing my answers to leetcode problems
 | [0412-fizz-buzz](https://github.com/chengat/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/chengat/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1283-reformat-date](https://github.com/chengat/leetcode-solutions/tree/master/1283-reformat-date) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/chengat/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chengat/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/chengat/leetcode-solutions/tree/master/3396-valid-word) |
@@ -54,6 +55,7 @@ This is a repo containing my answers to leetcode problems
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chengat/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/chengat/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/chengat/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/chengat/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/chengat/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
