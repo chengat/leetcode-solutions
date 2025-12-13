@@ -30,6 +30,7 @@ This is a repo containing my answers to leetcode problems
 | [1635-number-of-good-pairs](https://github.com/chengat/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/chengat/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/chengat/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chengat/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/chengat/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/chengat/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/chengat/leetcode-solutions/tree/master/2619-categorize-box-according-to-criteria) |
@@ -60,6 +61,7 @@ This is a repo containing my answers to leetcode problems
 | [1839-decode-xored-array](https://github.com/chengat/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [2058-concatenation-of-array](https://github.com/chengat/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chengat/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chengat/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chengat/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/chengat/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
